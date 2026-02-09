@@ -13,5 +13,7 @@ services:
       repo: https://github.com/omnidotdev/sigil-tokens#master
   - sigil-site:
       repo: https://github.com/omnidotdev/sigil-site#master
+  - thornberry:
+      repo: https://github.com/omnidotdev/thornberry#master
   - zenpetal:
       repo: https://github.com/omnidotdev/zenpetal#master
