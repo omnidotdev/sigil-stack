@@ -1,0 +1,16 @@
+# Sigil - Design system tokens and components
+# https://sigil.omni.dev
+
+name: sigil
+description: Design system tokens, components, and theming infrastructure
+
+services:
+  - sigil-tokens:
+      path: services/sigil-tokens
+      description: Sigil design tokens (@omnidotdev/sigil-tokens)
+  - sigil-site:
+      path: services/sigil-site
+      description: Sigil documentation site
+  - zenpetal:
+      path: services/zenpetal
+      description: Zenpetal component library (@omnidotdev/zenpetal)

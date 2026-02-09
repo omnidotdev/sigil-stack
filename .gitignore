@@ -1,0 +1,9 @@
+# ignore all by default
+*
+
+!.gitignore
+!README.md
+!LICENSE.md
+!weaver.yaml
+!services.yaml.template
+!Tiltfile
