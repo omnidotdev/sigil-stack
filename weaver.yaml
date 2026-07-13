@@ -13,7 +13,7 @@ services:
       description: Sigil documentation site
   - thornberry:
       path: services/thornberry
-      description: Thornberry component library (@omnidev/thornberry)
+      description: Thornberry component library (@omnidotdev/thornberry)
   - zenpetal:
       path: services/zenpetal
       description: Zenpetal component library (@omnidotdev/zenpetal)
